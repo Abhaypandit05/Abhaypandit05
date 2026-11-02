@@ -1,51 +1,86 @@
-<h1 align="center">Hi, I'm Abhay Kumar 👋</h1>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=Abhay%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Student%20%C2%B7%20Builder&descSize=20&descAlignY=60" />
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Student+@+Galgotias+University;I+build+things+with+JavaScript+%26+TypeScript;Always+shipping,+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=I+build+fast%2C+clean+web+apps;JavaScript+%7C+TypeScript+%7C+React;Student+%40+Galgotias+University;Turning+ideas+into+shipped+products" alt="Typing SVG" />
 </p>
 
+<!-- LINKS -->
 <p align="center">
-  <a href="https://abhaykumar05.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://forkquest.blogspot.com/"><img src="https://img.shields.io/badge/Blog-ForkQuest-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/1HusUHo312/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://abhaykumar05.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://forkquest.blogspot.com/"><img src="https://img.shields.io/badge/ForkQuest_Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" /></a>
+  <a href="mailto:abhaypandit552004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1HusUHo312/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abhaypandit05&label=Views&color=0e75b6&style=flat-square" />
 </p>
 
----
+<br/>
 
-### 🚀 About Me
-- 🎓 Studying at **Galgotias University**
-- 🔭 Currently building **YOUR_CURRENT_PROJECT**
-- 🌱 Learning **YOUR_TOPIC (e.g. Next.js, system design, AI)**
-- ✍️ I write about tech on **[ForkQuest](https://forkquest.blogspot.com/)**
-- ⚡ Fun fact: **ADD_SOMETHING_PERSONAL**
+<!-- ABOUT + STATS SIDE BY SIDE -->
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
 
-### 🛠️ Tech Stack
+### 👨‍💻 About
+```js
+const abhay = {
+  role: "Full-Stack Developer",
+  studying: "Galgotias University",
+  stack: ["JavaScript", "TypeScript", "React", "Node.js"],
+  writing: "ForkQuest (tech blog)",
+  lookingFor: ["Internships", "Collabs", "Open source"],
+};
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Abhaypandit05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<!-- TECH STACK -->
+### ⚡ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github,netlify,vscode&theme=dark" />
 </p>
 
-### 📂 Featured Projects
-| Project | What it is | Stack |
-|---|---|---|
-| [🛍️ Shoplocal](https://github.com/Abhaypandit05/Shoplocal) | ADD_ONE_LINE_DESCRIPTION | JavaScript |
-| [✅ Taskora](https://github.com/Abhaypandit05/Taskora) | ADD_ONE_LINE_DESCRIPTION | TypeScript |
-| [🤖 abhibot-website](https://github.com/Abhaypandit05/abhibot-website) | ADD_ONE_LINE_DESCRIPTION | JavaScript |
-| [🏗️ civil](https://github.com/Abhaypandit05/civil) | ADD_ONE_LINE_DESCRIPTION | JavaScript |
-| [🌐 portfolio](https://github.com/Abhaypandit05/portfolio) | My personal portfolio site | JavaScript |
+<!-- PROJECTS: cards pull descriptions automatically from your repos -->
+### 🚀 Featured Projects
+<table align="center" width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/Abhaypandit05/Shoplocal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaypandit05&repo=Shoplocal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/Abhaypandit05/Taskora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaypandit05&repo=Taskora&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Abhaypandit05/abhibot-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaypandit05&repo=abhibot-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/Abhaypandit05/civil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaypandit05&repo=civil&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Abhaypandit05/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaypandit05&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/Abhaypandit05/kuchbhi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaypandit05&repo=kuchbhi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" /></a></td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhaypandit05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaypandit05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- LANGUAGES + STREAK -->
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaypandit05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="100%" />
+</td>
+<td width="50%" align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhaypandit05&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhaypandit05&theme=tokyonight&hide_border=true" />
-</p>
+<!-- ACTIVITY GRAPH -->
+### 📈 Contribution Activity
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaypandit05&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
 
-### 🤝 Let's Connect
-Open to collaborations, internships, and interesting side projects. Check out my [portfolio](https://abhaykumar05.netlify.app/) or drop by the [blog](https://forkquest.blogspot.com/).
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhaypandit05&label=Profile+views&color=0e75b6&style=flat" />
-</p>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" />
